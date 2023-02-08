@@ -1,9 +1,12 @@
-h1{
+#focim{
     color:blue;
 }
-table{
-    border: 2px;
+
+img{
+ height: 100px;
+
 }
-image{
-    size: 25%;
+
+#td2{
+    height: 5%;
 }
